@@ -1,0 +1,19 @@
+.mdxdisplay {
+    p {
+        @apply mt-0
+    }
+
+    img {
+        @apply w-full min-w-72 max-w-[1000px]
+    }
+
+    table {
+
+        @apply table-fixed border-collapse w-full my-4 mx-auto object-contain min-w-72 max-w-[1000px];
+
+        td,
+        th {
+            @apply border p-[3%] border-gray-300;
+        }
+    }
+}
