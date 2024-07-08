@@ -10,8 +10,8 @@ npm install --force
 ```
 npm run dev
 ```
-then test it at http://localhost:3000/
-the webpage will be like this![](dashboard_screenshot.png)
+Then, test it at [here](http://localhost:3000/).
+The webpage will be like this![](dashboard_screenshot.png).
 
 
 ## Figma Page is [here](https://www.figma.com/design/jKHFxfaIEhEZWDRcqY7W5s/Frontend-test-UI?node-id=0-1)
