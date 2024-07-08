@@ -1,7 +1,7 @@
 import Navbar from "@/components/dashboard/Navbar";
 import AITutor from "@/components/AITutor/AITutor";
-// import OnBoarding from "@/components/newUser/onBoarding";
-// import Assesment from "@/components/newUser/assesment/Assesment";
+import OnBoarding from "@/components/newUser/onBoarding";
+import Assesment from "@/components/newUser/assesment/Assesment"
 
 export default function AuthedPageLayout({
   children,
@@ -13,8 +13,8 @@ export default function AuthedPageLayout({
       <Navbar />
       {children}
       <AITutor />
-      {/* <Assesment />
-      <OnBoarding /> */}
+      <Assesment />
+      {/* <OnBoarding /> */}
     </>
   );
 }
