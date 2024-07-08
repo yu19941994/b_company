@@ -11,4 +11,7 @@ npm install --force
 npm run dev
 ```
 then test it at http://localhost:3000/
-the webpage will be like this![](https://hackmd.io/_uploads/B1ox0eFvA.png)
+the webpage will be like this![](dashboard_screenshot.png)
+
+
+## Figma Page is [here](https://www.figma.com/design/jKHFxfaIEhEZWDRcqY7W5s/Frontend-test-UI?node-id=0-1)
